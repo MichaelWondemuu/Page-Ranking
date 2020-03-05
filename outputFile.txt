@@ -1,0 +1,16 @@
+Your input is:
+|0| |1| |1| |1| 
+|1| |0| |0| |0| 
+|0| |1| |0| |0| 
+|1| |0| |0| |0| 
+__________________________________________ 
+Outputs of the above matrix Pages is 
+	 back ward links of page(column) 1 is 2
+	 back ward links of page(column) 2 is 2
+	 back ward links of page(column) 3 is 1
+	 back ward links of page(column) 4 is 1
+page rank of page 1 = 1.425
+page rank of page 2 = 1.60563
+page rank of page 3 = 0.755625
+page rank of page 4 = 0.755625
+After 1 ittration your avarage pages ranking 1.13547 is the best!!!
